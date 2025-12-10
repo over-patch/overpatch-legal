@@ -44,22 +44,22 @@ GitHub Pagesとして公開された場合、各ページのURLは以下の形�
 ## リンク一覧
 
 ### index
-- [一覧ページ](index.html)
+- [一覧ページ](https://over-patch.github.io/overpatch-legal/index.html)
 
 ### Hanahana
-- [利用規約 (日本語)](hanahana/terms_ja.html)
-- [Terms of Service (English)](hanahana/terms_en.html)
-- [プライバシーポリシー (日本語)](hanahana/privacy_ja.html)
-- [Privacy Policy (English)](hanahana/privacy_en.html)
+- [利用規約 (日本語)](https://over-patch.github.io/overpatch-legal/hanahana/terms_ja.html)
+- [Terms of Service (English)](https://over-patch.github.io/overpatch-legal/hanahana/terms_en.html)
+- [プライバシーポリシー (日本語)](https://over-patch.github.io/overpatch-legal/hanahana/privacy_ja.html)
+- [Privacy Policy (English)](https://over-patch.github.io/overpatch-legal/hanahana/privacy_en.html)
 
 ### Juggler
-- [利用規約 (日本語)](juggler/terms_ja.html)
-- [Terms of Service (English)](juggler/terms_en.html)
-- [プライバシーポリシー (日本語)](juggler/privacy_ja.html)
-- [Privacy Policy (English)](juggler/privacy_en.html)
+- [利用規約 (日本語)](https://over-patch.github.io/overpatch-legal/juggler/terms_ja.html)
+- [Terms of Service (English)](https://over-patch.github.io/overpatch-legal/juggler/terms_en.html)
+- [プライバシーポリシー (日本語)](https://over-patch.github.io/overpatch-legal/juggler/privacy_ja.html)
+- [Privacy Policy (English)](https://over-patch.github.io/overpatch-legal/juggler/privacy_en.html)
 
 ### Slitherlink
-- [利用規約 (日本語)](slitherlink/terms_ja.html)
-- [Terms of Service (English)](slitherlink/terms_en.html)
-- [プライバシーポリシー (日本語)](slitherlink/privacy_ja.html)
-- [Privacy Policy (English)](slitherlink/privacy_en.html)
+- [利用規約 (日本語)](https://over-patch.github.io/overpatch-legal/slitherlink/terms_ja.html)
+- [Terms of Service (English)](https://over-patch.github.io/overpatch-legal/slitherlink/terms_en.html)
+- [プライバシーポリシー (日本語)](https://over-patch.github.io/overpatch-legal/slitherlink/privacy_ja.html)
+- [Privacy Policy (English)](https://over-patch.github.io/overpatch-legal/slitherlink/privacy_en.html)
